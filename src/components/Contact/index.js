@@ -33,7 +33,7 @@ function Contact() {
                 <h2 className="text-center mb-2">contact<span className="text-primary">Me</span></h2>
                 <p class="mb-2">
                     Do you have comments or suggestions? Please contact me at <a
-                        href="mailto:deckiedevs@gmail.com">deckiedevs@gmail.com</a> or use the form below!
+                        href="kruti.patel0709@gmail.com">krutipatel07@gmail.com</a> or use the form below!
                 </p>
                 <form action="https://formspree.io/f/mleopwev" method="POST">
                     <label className="form-label" htmlFor="name">Name</label>
