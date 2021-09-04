@@ -1,4 +1,4 @@
-# deckieDevs
+# Kruti Portfolio
 
 ## Purpose
 KrutiPatel's web development portfolio.  It includes assignments from her University of Toronto boot camp as well as personal projects.
