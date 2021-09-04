@@ -150,23 +150,23 @@ const showcaseImages = importAll(require.context('../assets/images/showcase/thum
 export const showcase = [
     {
         id: 1,
-        name: 'What\'s For Dinner?',
-        text: 'What\'s For Dinner?, my first group project.',
-        technologies: 'JavaScript, Spoonacular API, Math.js, HTML, Materialize',
+        name: 'COVIINFO',
+        text: 'COVIINFO?, my first group project.',
+        technologies: 'JavaScript, covid-19 and news API, chart.js, HTML, Materialize',
         deployed: true,
-        link: 'https://deckiedevs.github.io/whats-for-dinner',
-        github: 'https://github.com/deckiedevs/whats-for-dinner',
-        description: 'What\'s For Dinner is a recipe finder application that allows users to plan dinner based on user selected input for type of cuisine, dietary restrictions, and desired ingredients.  Users can save their favorite recipes and return to them later!'
+        link: 'https://group6-uot.github.io/uot-project1-group6/',
+        github: 'https://github.com/Group6-UoT/uot-project1-group6',
+        description: 'COVIINFO gives the information about the covid-19 realted data. It includes the total number of the cases in the canada. It also give the information about the total vaccinated people in the city vise and provide the information abot the covide speread in world wide. The informatoon is displayed in a chart form so that easy to get the informations and also use can slect the startes in the canada and find such informations!'
     },
     {
         id: 2,
-        name: 'Something Special',
-        text: 'Something Special, a second-hand event decor marketplace created with MySQL and Handlebars',
+        name: 'window shoppers',
+        text: 'Something Special, a buying and selling products application created with MySQL and Handlebars',
         technologies: 'Node.js, Express.js, MySQL, Sequelize, Firebase, Handlebars',
         deployed: true,
-        link: 'https://dd-special.herokuapp.com/',
-        github: 'https://github.com/deckiedevs/something-special',
-        description: 'Something Special is a full-stack REST API website that allows users to post and comment on listings for second-hand event decor items.  It was built in just two weeks and features a live preview for editing posts and a post search feature.  The application requires the user to log in to view listings.  Please feel free to use the credentials \'test@test.com\' and \'password\' to log in and view the page.'
+        link: 'https://project2-window-shopper.herokuapp.com/',
+        github: 'https://github.com/Gr0upFour/projectTwo',
+        description: 'window shoppers allow user to buy and sell their products online. In this application the chat feature also provided so that user and buyer can communicate with eachother. Also there are some other feed are in the main page, which show the latest top rating news and products so that use can get more idias about that.'
     }
 ];
 
