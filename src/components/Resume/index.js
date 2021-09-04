@@ -1,7 +1,7 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFileDownload } from '@fortawesome/free-solid-svg-icons';
-import myResume from '../../assets/pdf/decker-resume.pdf';
+import myResume from '../../assets/pdf/Kruti_resume_ SE.pdf';
 import experience from '../../lib/resume';
 import '../../assets/css/resume.css';
 
@@ -11,8 +11,8 @@ function Resume() {
             <div className="w75 bg-dark section-container flex-row justify-center">
                 <div className="side-container">
                     <div className="resume-block">
-                        <h2 className="mb-1">Mila <span className="text-primary">Decker</span></h2>
-                        <h4>Orlando-based Web Developer</h4>
+                        <h2 className="mb-1">Kruti <span className="text-primary">Patel</span></h2>
+                        <h4>software Developer</h4>
                         <form method="get" action={myResume} target="_blank">
                             <button type="submit" className="btn">
                                 <FontAwesomeIcon icon={faFileDownload} className="mr-1" />
@@ -28,20 +28,19 @@ function Resume() {
                         <h5>Education</h5>
                         <ul className="resume-list">
                             <li>Full-stack Coding Boot Camp Certificate</li>
-                            <li>B.S. in Forensic Science</li>
-                            <li>A.A. & A.S. in General Studies</li>
+                            <li>Bachelore of Enginerring in Computer Secience</li>
                         </ul>
                     </div>
                     <div className="resume-block">
                         <h5>Certifications</h5>
                         <ul className="resume-list">
                             <li>
-                                Certified Senior Crime Scene Analyst <br />
-                                <span className="italic text-small">The International Association of Identification</span>
+                                Java development <br />
+                                <span className="italic text-small">Java Development at university</span>
                             </li>
                             <li>
-                                Certified Firearms Specialist <br />
-                                <span className="italic text-small">The International Firearms Specialist Academy</span>
+                                Android development<br />
+                                <span className="italic text-small">Android trainning at It compmny</span>
                             </li>
                         </ul>
                     </div>
