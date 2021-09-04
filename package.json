@@ -52,5 +52,13 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krutipatel07/React-Portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/krutipatel07/React-Portfolio/issues"
   }
 }
