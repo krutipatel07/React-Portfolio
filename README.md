@@ -22,7 +22,7 @@ KrutiPatel's web development portfolio.  It includes assignments from her Univer
 * Icons from [FontAwesome](https://fontawesome.com/)
 
 ## Website
-![kruti's Deployed Page](./src/assets/images/screenshot.png)
+![kruti's Deployed Page](./src/assets/images/screenshots.png)
 
 [Deployed kruti's Web Page](https://krutipatel07.github.io/React-Portfolio/)
 ## Credits
