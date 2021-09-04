@@ -1,7 +1,7 @@
 {
-  "name": "deckiedevs",
+  "name": "kruti",
   "version": "2.0.0",
-  "description": "deckieDevs Personal Portfolio",
+  "description": "kruti Personal Portfolio",
   "private": true,
   "homepage": "http://krutipatel07.github.io/React-Portfolio",
   "scripts": {
@@ -12,7 +12,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "author": "Mila Decker",
+  "author": "Kruti Patel",
   "license": "ISC",
   "eslintConfig": {
     "extends": [
