@@ -7,10 +7,10 @@ function Footer() {
     
     return (
         <footer className="flex-row justify-center align-center px-2">
-            <a href="https://github.com/deckiedevs" target="_blank">
+            <a href="https://github.com/krutipatel07" target="_blank">
                 <FontAwesomeIcon icon={faGithubAlt} className="mr-1" />
             </a>
-            <a href="https://www.linkedin.com/in/mila-decker/" target="_blank">
+            <a href="https://www.linkedin.com/in/tokruti/" target="_blank">
                 <FontAwesomeIcon icon={faLinkedin} className="mr-1" />
             </a>
         </footer>
