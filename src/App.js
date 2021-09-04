@@ -17,7 +17,7 @@ function App() {
     const [currentPage, setCurrentPage] = useState(pages[0]);
 
     useEffect(() => {
-        document.title = `deckieDevs :: ${currentPage.name}`
+        document.title = `kruti :: ${currentPage.name}`
     });
 
     return (
