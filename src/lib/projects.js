@@ -22,8 +22,8 @@ export const projects = [
         text: 'Password Generator, my first assignment with JavaScript.',
         technologies: 'JavaScript',
         deployed: true,
-        link: 'https://deckiedevs.github.io/password-generator',
-        github: 'https://github.com/deckiedevs/password-generator',
+        link: 'https://krutipatel07.github.io/password-generatore/',
+        github: 'https://github.com/krutipatel07/password-generatore',
         description: 'The Password Generator was my first JavaScript assignment.  Upon clicking "Generate Password," the user is given a series of prompts to design the password composition.  A pool of possible password characters is created based off of user response, and the password is generated with Math.random().'
     }, 
     {
@@ -32,8 +32,8 @@ export const projects = [
         text: 'JavaScript Code Quiz, an interactive quiz that implements DOM manipulation.',
         technologies: 'JavaScript, HTML, CSS',
         deployed: true,
-        link: 'https://deckiedevs.github.io/code-quiz',
-        github: 'https://github.com/deckiedevs/code-quiz',
+        link: 'https://krutipatel07.github.io/code-quiz/',
+        github: 'https://github.com/krutipatel07/code-quiz',
         description: 'This quick and simple JavaScript assignment dynamically creates DOM elements to render questions and answers.  Scores are saved using local storage and can be viewed on the ranked scoreboard.'
     }, 
     {
@@ -42,8 +42,8 @@ export const projects = [
         text: 'Work Day Scheduler, an productivity application that utilizes JQuery and Bootstrap.',
         technologies: 'JQuery, Moment.js, Bootstrap, HTML, CSS',
         deployed: true,
-        link: 'https://deckiedevs.github.io/scheduler',
-        github: 'https://github.com/deckiedevs/scheduler',
+        link: 'https://krutipatel07.github.io/Work-Day-Scheduler/',
+        github: 'https://github.com/krutipatel07/Work-Day-Scheduler',
         description: 'Built with JQuery and Bootstrap, this Work Day Scheduler allows users to plan their 9 to 5 day.  The scheduler is updated in real time using Moment.js with the current time block being highlighted in red and future time blocks displayed in green.'
     },
     {
@@ -52,8 +52,8 @@ export const projects = [
         text: 'Weather Dashboard, a weather application using the OpenWeather API.',
         technologies: 'Open Weather API, Moment.js, JavaScript, Bootstrap, HTML',
         deployed: true,
-        link: 'https://deckiedevs.github.io/weather-dashboard',
-        github: 'https://github.com/deckiedevs/weather-dashboard',
+        link: 'https://krutipatel07.github.io/Weather-Dashboard/',
+        github: 'https://github.com/krutipatel07/Weather-Dashboard',
         description: 'This weather application uses the OpenWeather API to display the daily and 5-day forecast of the user searched U.S. city.  Up to five of the most recently searched cities are saved.'
     }, 
     {
@@ -62,7 +62,7 @@ export const projects = [
         text: 'README Generator, a Node.js application to generate a professional README with Inquirer.',
         technologies: 'Node.js, Inquirer.js, JavaScript',
         deployed: false,
-        github: 'https://github.com/deckiedevs/readme-generator',
+        github: 'https://github.com/krutipatel07/README-generator',
         description: 'The README Generator is a Node.js application built with Inquirer.js.  The README Generator a professional README markdown file based on user input for desired sections.'
     }, 
     {
@@ -71,7 +71,7 @@ export const projects = [
         text: 'Team Profile Generator, an application for creating a team roster using Node.js and Inquirer.',
         technologies: 'Node.js, Inquirer.js, Jest, JavaScript',
         deployed: false,
-        github: 'https://github.com/deckiedevs/team-profile-generator',
+        github: 'https://github.com/krutipatel07/TeamProfileGenerator',
         description: 'The Team Profile Generator was an exercise in object-oriented programming and test-driven developement.  The application itself runs in Node.js and uses Inquirer.js to create a simple webpage featuring a development team\'s roster.  Tests for the application were written using Jest.'
     }, 
     {
@@ -80,8 +80,8 @@ export const projects = [
         text: 'Note Taker, an Express.js application for taking notes.',
         technologies: 'Express.js, Node.js, UUID, JavaScript',
         deployed: true,
-        link: 'https://deckiedevs-note-taker.herokuapp.com',
-        github: 'https://github.com/deckiedevs/note-taker',
+        link: 'https://express-js-challenge.herokuapp.com/',
+        github: 'https://github.com/krutipatel07/Note-Taker',
         description: 'Note Taker was my first Express.js assignment.  It uses POST and DELETE routes to create, edit, and delete notes from the db.json file.'
     }, 
     {
@@ -90,7 +90,7 @@ export const projects = [
         text: 'Employee Tracker, an application that allows business owners to manage employees.',
         technologies: 'MySQL, Node.js, Inquirer.js, JavaScript',
         deployed: false,
-        github: 'https://github.com/deckiedevs/employee-tracker',
+        github: 'https://github.com/krutipatel07/Employee-Tracker',
         description: 'Employee Tracker uses MySQL to track employees and their roles, departments, and salaries within a company.  The application was built in Node.js and uses Inquirer.js to allow the user to interact with the database.'
     }, 
     {
@@ -99,7 +99,7 @@ export const projects = [
         text: 'e-Commerce Back End, the back-end of an e-commerce site.',
         technologies: 'MySQL, Sequelize, Node.js, Express.js, JavaScript',
         deployed: false,
-        github: 'https://github.com/deckiedevs/e-commerce-back-end',
+        github: 'https://github.com/krutipatel07/E-commerce',
         description: 'The e-Commerce Back End application was an exercise in REST APIs and CRUD operations.  The application does not have a front-end for public use, but API GET, POST, PUT, and DELETE routes are fully functional for maintaining a commerce database of products, product tags, and product categories.'
     },
     {
@@ -108,8 +108,8 @@ export const projects = [
         text: 'The Tech Blog, a REST API blog.',
         technologies: 'MySQL, Sequelize, Express.js, Express Sessions, Node.js, Bcrypt, Handlebars',
         deployed: true,
-        link: 'https://deckiedevs-tech-blog.herokuapp.com/',
-        github: 'https://github.com/deckiedevs/tech-blog',
+        link: 'https://quiet-escarpment-26240.herokuapp.com/',
+        github: 'https://github.com/krutipatel07/MVC-TechBlog',
         description: 'The Tech Blog is a REST API blog created with MySQL and Sequelize.  Users can create accounts to post to the blog or comment on existing posts.  A user\'s post and comment history can be viewed from their dashboard.'
     },
     {
@@ -118,7 +118,7 @@ export const projects = [
         text: 'Social Network API, a REST API built with MongoDB and Mongoose.',
         technologies: 'MongoDB, Mongoose, Express.js, Node.js',
         deployed: false,
-        github: 'https://github.com/deckiedevs/social-network-api',
+        github: 'https://github.com/krutipatel07/API-Social-Network',
         description: 'This Social Network API was a REST API exercise built with MongoDB and Mongoose.  It does not have a front-end for public use, but API GET, POST, PUT, and DELETE routes can be tested in clients such as Insomnia Core or Postman.'
     },
     {
@@ -127,28 +127,9 @@ export const projects = [
         text: 'Budget Tracker, a simple progressive web application to track finances.',
         technologies: 'IndexedDB, Service Workers, JavaScript',
         deployed: true,
-        link: 'https://dd-budget-tracker.herokuapp.com/index.html',
-        github: 'https://github.com/deckiedevs/budget-tracker',
+        link: 'https://budget-tracker-pwa01.herokuapp.com/',
+        github: 'https://github.com/krutipatel07/PWA-Budget-Tracker',
         description: 'The Budget Tracker is a progressive web application that uses IndexedDB and service workers to be fully functional offline.'
-    },
-    {
-        id: 13,
-        name: 'Book Search',
-        text: 'Book Search, a Google Books API powered search engine.',
-        technologies: 'GraphQL, MongoDB, Mongoose, Google Books API, JavaScript.',
-        deployed: true,
-        link: 'https://dd-book-search.herokuapp.com/',
-        github: 'https://github.com/deckiedevs/book-search',
-        description: 'Book Search is a search engine powered by the Google Books API.  Users may search for books in the search bar.  The searched books will display information regarding the book, including title, author(s), an image, and a short description.  Users who are logged in may save their books to view later.'
-    },
-    {
-        id: 14,
-        name: 'Shop-Shop with Redux',
-        text: 'Shop-Shop, an e-commerce site built with React-Redux and Stripe API.',
-        deployed: true,
-        link: 'https://dd-shop-redux.herokuapp.com/',
-        github: 'https://github.com/deckiedevs/shop-shop-redux',
-        description: 'Shop Shop is a MERN stack e-commerce website that uses React-Redux and Stripe API.  To test the deployed application, you may log in using the email "test@test.com" and the password "password".'
     }
 ];
 
@@ -186,16 +167,6 @@ export const showcase = [
         link: 'https://dd-special.herokuapp.com/',
         github: 'https://github.com/deckiedevs/something-special',
         description: 'Something Special is a full-stack REST API website that allows users to post and comment on listings for second-hand event decor items.  It was built in just two weeks and features a live preview for editing posts and a post search feature.  The application requires the user to log in to view listings.  Please feel free to use the credentials \'test@test.com\' and \'password\' to log in and view the page.'
-    },
-    {
-        id: 3,
-        name: 'Food Baby',
-        text: 'Food Baby, an food ordering template that can be tailored to any restaurant.',
-        technologies: 'React.js, MongoDB, Apollo Server, FireBase, Bcrypt, Stripe, Express.js, Node.js',
-        deployed: true,
-        link: 'https://food-babycmnw.herokuapp.com/',
-        github: 'https://github.com/Nickhill2380/food-baby',
-        description: 'Food Baby is a MERN stack application that was built in just two weeks.  Food Baby is a food ordering platform that can be tailored to be personalized for any restaurants.  Users can create an account to order from the menu and checkout with Stripe.  Their order history is saved to their account.  Additionally, Food Baby is seeded with an admin account that enables the owner to update their menu from the admin dashboard.  To test a basic "user" account type, please log in using "jcena@food-baby.com" and the password "password12345".  To test an "owner" account, please log in using "admin@food-baby.com" and the password "password12345".'
     }
 ];
 
